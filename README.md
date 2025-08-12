@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m passionate about **building scalable web applications** and **REST APIs**  
-- 🌱 Currently learning: **OpenCV, MediaPipe, Data Science** alongside my backend journey  
+- 🌱 Currently learning: **Machine Learining** alongside my backend journey 
 - 🎯 Goals:  
   - Secure an internship this semester  
   - Land a great job by early 7th semester  
@@ -20,7 +20,7 @@
 **Backend:** Node.js, Express.js  
 **Frontend:** React.js, EJS  
 **Databases:** MongoDB, SQL  
-**Tools & Platforms:** Git, GitHub, Docker  
+**Tools & Platforms:** Git, GitHub, Docker, CI/CD
 
 ---
 
